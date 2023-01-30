@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    width: 465px;
+}
+
+.title {
+    width: 400px;
+    font-size: 50px;
+    color: #000000;
+}
+
+.text {
+    font-size: 18px;
+    margin: 30px 0;
+}
+
+.btn {
+    background: #FF6861;
+    border-radius: 100px;
+    color: #ffffff;
+    padding: 22px 70px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
+    width: 219px;
+    margin: 30px 0 0 0;
+}
+
+.img {
+    margin-left: 180px;
+}
